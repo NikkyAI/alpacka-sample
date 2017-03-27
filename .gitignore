@@ -1,0 +1,40 @@
+# # vanilla
+# mods/
+# logs/
+# saves/
+# usercache.json
+# usernamecache.json
+# options.txt
+# 
+# # multimc
+# /icon.png
+# realms_persistence\.json
+# reports/
+# 
+# # server
+# /eula.txt
+# 
+# # mods
+# /journeymap
+# 
+# # unknown
+# /knownkeys.txt
+# 
+# # custom entries
+# config/
+# ambience_music/
+# # !/config/jei/
+
+/*/
+/*
+
+!.gitignore
+!/packconfig.yaml
+!/packconfig.json
+!/icon.png
+
+/minecraft/*/
+/minecraft/*
+/minecraft/config/*
+
+!/minecraft/config/defaultoptions/

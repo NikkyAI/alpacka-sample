@@ -1,0 +1,387 @@
+{
+  "mods": [
+    {
+      "name": "Wearable Backpacks",
+      "description": "Minecraft mod which adds beautiful, balanced backpacks",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/257572-wearable-backpacks"
+      },
+      "src": "https://addons.cursecdn.com/files/2370/715/WearableBackpacks-1.11.2-2.0.0.jar",
+      "version": "2.0.0",
+      "path": "mods/WearableBackpacks-1.11.2-2.0.0.jar"
+    },
+    {
+      "name": "Roots",
+      "description": "A druidic nature-magic mod.",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/246183-roots"
+      },
+      "src": "https://addons.cursecdn.com/files/2409/532/roots-2-0.016.jar",
+      "version": "0.016",
+      "path": "mods/roots-2-0.016.jar"
+    },
+    {
+      "name": "Tough As Nails",
+      "description": "A difficult, survival-based mod that adds seasons, thirst, body temperature, and more!",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/246391-tough-as-nails"
+      },
+      "src": "https://addons.cursecdn.com/files/2383/472/ToughAsNails-1.11-2.0.5.jar",
+      "version": "${mod_version}",
+      "path": "mods/ToughAsNails-1.11-2.0.5.jar"
+    },
+    {
+      "name": "PeacefulSurface",
+      "description": "peaceful than normal",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/peacefulsurface"
+      },
+      "src": "https://addons.cursecdn.com/files/2361/356/PeacefulSurface-1.11.2-v1.jar",
+      "version": "1.11.2-v1",
+      "path": "mods/PeacefulSurface-1.11.2-v1.jar"
+    },
+    {
+      "name": "No Mob Spawning on Trees",
+      "description": "A mod prevents mob spawning on wood logs.",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/226779-no-mob-spawning-on-trees"
+      },
+      "src": "https://addons.cursecdn.com/files/2361/982/NoMobSpawningOnTrees-1.1.10-mc1.11.2.jar",
+      "version": "1.1.10-mc1.11.2",
+      "path": "mods/NoMobSpawningOnTrees-1.1.10-mc1.11.2.jar"
+    },
+    {
+      "name": "OpenBlocks Elevator",
+      "description": "Port of OpenBlocks Elevator.",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/250832-openblocks-elevator"
+      },
+      "src": "https://addons.cursecdn.com/files/2366/977/ElevatorMod-1.11.2-1.3.0.jar",
+      "version": "1.11.2-1.3.0",
+      "path": "mods/ElevatorMod-1.11.2-1.3.0.jar"
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "description": "View Items and Recipes",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/238222-just-enough-items-jei"
+      },
+      "src": "https://addons.cursecdn.com/files/2413/717/jei_1.11.2-4.3.3.270.jar",
+      "version": "4.3.3.270",
+      "path": "mods/jei_1.11.2-4.3.3.270.jar"
+    },
+    {
+      "name": "Akashic Tome",
+      "description": "The Book of Books. Store every documentation book in one.",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/250577-akashic-tome"
+      },
+      "src": "https://addons.cursecdn.com/files/2363/501/AkashicTome-1.1-6.jar",
+      "version": "1.1-6",
+      "path": "mods/AkashicTome-1.1-6.jar"
+    },
+    {
+      "name": "Quark",
+      "description": "A Quark is a very small thing. This mod is a collection of small things that improve the vanilla minecraft experience.",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/243121-quark"
+      },
+      "src": "https://addons.cursecdn.com/files/2363/459/Quark-r1.2-71.jar",
+      "version": "r1.2-71",
+      "path": "mods/Quark-r1.2-71.jar"
+    },
+    {
+      "name": "NotEnoughCodecs",
+      "description": "Additional audio codecs",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/241058-notenoughcodecs"
+      },
+      "src": "https://addons.cursecdn.com/files/2349/775/NotEnoughCodecs-0.5.jar",
+      "version": "0.5",
+      "path": "mods/NotEnoughCodecs-0.5.jar"
+    },
+    {
+      "name": "MCMultiPart",
+      "description": "A universal multipart API for modern Minecraft",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/239431-mcmultipart"
+      },
+      "src": "https://addons.cursecdn.com/files/2416/574/MCMultiPart-2.0.0.jar",
+      "version": "latest",
+      "path": "mods/MCMultiPart-2.0.0.jar"
+    },
+    {
+      "name": "Fruit Phone",
+      "description": "Waila-compatible immersive block information.",
+      "links": {
+        "website": "https://unascribed.com"
+      },
+      "src": "https://github.com/elytra/FruitPhone/releases/download/1.11.2-0.1.7/FruitPhone-1.11.2-0.1.7.jar",
+      "version": "1.11.2-0.1.7",
+      "path": "mods/FruitPhone-1.11.2-0.1.7.jar"
+    },
+    {
+      "src": "https://github.com/elytra/ProbeDataProviderAPI/releases/download/MC1.11.2_ver1.1.1/ProbeDataProviderAPI-MC1.11.2_ver1.1.1.jar",
+      "version": "recommended",
+      "path": "mods/ProbeDataProviderAPI-MC1.11.2_ver1.1.1.jar"
+    },
+    {
+      "name": "Thumpcord",
+      "description": "Discord support for Thump, a Minecraft chat bridge",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/258755-thumpcord"
+      },
+      "src": "https://addons.cursecdn.com/files/2377/734/Thumpcord-1.11.2-0.1.0.3.jar",
+      "version": "1.11.2-0.1.0.3",
+      "path": "mods/Thumpcord-1.11.2-0.1.0.3.jar",
+      "side": "server"
+    },
+    {
+      "name": "Morpheus",
+      "description": "Sleep vote system",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/morpheus"
+      },
+      "src": "https://addons.cursecdn.com/files/2370/482/Morpheus-1.11.2-3.2.12.jar",
+      "version": "1.11.2-3.2.12",
+      "path": "mods/Morpheus-1.11.2-3.2.12.jar",
+      "side": "server"
+    },
+    {
+      "name": "AromaBackup",
+      "description": "IT DOES BACKUPS!!! (Works in SSP and SMP)",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/225658-aromabackup"
+      },
+      "src": "https://addons.cursecdn.com/files/2412/514/AromaBackup-1.11-2.1.0.0.jar",
+      "version": "2.1.0.0",
+      "path": "mods/AromaBackup-1.11-2.1.0.0.jar",
+      "side": "server"
+    },
+    {
+      "name": "NoNausea",
+      "description": "Replace the vanilla nausea effect with something less headache inducing",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/226035-nonausea"
+      },
+      "src": "https://addons.cursecdn.com/files/2355/689/NoNausea-MC1.11-1.0.jar",
+      "version": "1.0",
+      "path": "mods/NoNausea-MC1.11-1.0.jar",
+      "side": "client"
+    },
+    {
+      "name": "ChatFlow",
+      "description": "Full control of incoming chat messages via Regex",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/231453-chatflow"
+      },
+      "src": "https://addons.cursecdn.com/files/2363/503/ChatFlow-1.3-6.jar",
+      "version": "ANT:VERSION",
+      "path": "mods/ChatFlow-1.3-6.jar",
+      "side": "client"
+    },
+    {
+      "name": "Default Options",
+      "description": "A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local opt...",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/232131-default-options"
+      },
+      "src": "https://addons.cursecdn.com/files/2376/984/DefaultOptions_1.11.2-8.2.2.jar",
+      "version": "8.2.2",
+      "path": "mods/DefaultOptions_1.11.2-8.2.2.jar",
+      "side": "client"
+    },
+    {
+      "name": "Just Enough Resources (JER)",
+      "description": "A JEI addon that adds mob drops, ore gen, ..",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/240630-just-enough-resources-jer"
+      },
+      "src": "https://addons.cursecdn.com/files/2363/438/JustEnoughResources-1.11.2-0.6.2.104.jar",
+      "version": "0.6.2",
+      "path": "mods/JustEnoughResources-1.11.2-0.6.2.104.jar",
+      "side": "client"
+    },
+    {
+      "name": "Inventory Tweaks",
+      "description": "Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks...",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/223094-inventory-tweaks"
+      },
+      "src": "https://addons.cursecdn.com/files/2412/153/InventoryTweaks-1.62+beta.86.jar",
+      "version": "1.62+beta.86.e69c6bf",
+      "path": "mods/InventoryTweaks-1.62+beta.86.jar"
+    },
+    {
+      "name": "OpenEye",
+      "description": "Telemetry and crash collection",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/251457-openeye"
+      },
+      "src": "https://addons.cursecdn.com/files/2386/190/OpenEye-1.11.2-0.8.jar",
+      "version": "0.8",
+      "path": "mods/OpenEye-1.11.2-0.8.jar"
+    },
+    {
+      "src": "https://asie.pl/files/minecraft/foamfix-0.6.2-beta1-anarchy.jar",
+      "version": "recommended",
+      "path": "mods/foamfix-0.6.2-beta1-anarchy.jar"
+    },
+    {
+      "name": "Neat",
+      "description": "Minimalistic Functional Unit Frames for the modern Minecrafter",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/238372-neat"
+      },
+      "src": "https://addons.cursecdn.com/files/2363/507/Neat 1.4-13.jar",
+      "version": "1.4-13",
+      "path": "mods/Neat 1.4-13.jar",
+      "side": "client"
+    },
+    {
+      "name": "JourneyMap",
+      "description": "Real-time mapping in-game or your browser as you explore.",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/journeymap-32274"
+      },
+      "src": "https://addons.cursecdn.com/files/2361/858/journeymap-1.11.2-5.3.3.jar",
+      "version": "1.11.2-5.3.3",
+      "path": "mods/journeymap-1.11.2-5.3.3.jar",
+      "side": "client"
+    },
+    {
+      "name": "Dynamic Surroundings",
+      "description": "Adds a variety of sound and visual effects to improve your Minecraft experience",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/238891-dynamic-surroundings"
+      },
+      "src": "https://addons.cursecdn.com/files/2370/485/DynamicSurroundings-1.11.2-3.2.1.2.jar",
+      "version": "1.11.2-3.2.1.2",
+      "path": "mods/DynamicSurroundings-1.11.2-3.2.1.2.jar",
+      "side": "client"
+    },
+    {
+      "name": "Just Enough Buttons",
+      "description": "Adding utility buttons to the inventory screen",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/248747-just-enough-buttons"
+      },
+      "src": "https://addons.cursecdn.com/files/2362/79/justenoughbuttons-1.11-1.3.jar",
+      "version": "1.11-1.3",
+      "path": "mods/justenoughbuttons-1.11-1.3.jar",
+      "side": "client"
+    },
+    {
+      "name": "More Overlays",
+      "description": "Brings back the NEI Overlays",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/243478-more-overlays"
+      },
+      "src": "https://addons.cursecdn.com/files/2384/774/moreoverlays-1.10-mc1.11.2.jar",
+      "version": "1.10",
+      "path": "mods/moreoverlays-1.10-mc1.11.2.jar",
+      "side": "client"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "description": "A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons.",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/mouse-tweaks"
+      },
+      "src": "https://addons.cursecdn.com/files/2369/490/MouseTweaks-2.7-mc1.11.2.jar",
+      "version": "2.7",
+      "path": "mods/MouseTweaks-2.7-mc1.11.2.jar",
+      "side": "client"
+    },
+    {
+      "name": "Item Scroller",
+      "description": "A tiny mod that allows moving items in inventory GUIs by scrolling the mouse wheel",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/242064-item-scroller"
+      },
+      "src": "https://addons.cursecdn.com/files/2361/55/itemscroller-1.11.2-0.8.1.jar",
+      "version": "0.8.1",
+      "path": "mods/itemscroller-1.11.2-0.8.1.jar",
+      "side": "client"
+    },
+    {
+      "name": "Ambience (Music Mod)",
+      "description": "A music mod that lets you add your favorite soundtracks to Minecraft",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/238120-ambience-music-mod"
+      },
+      "src": "https://addons.cursecdn.com/files/2365/971/Ambience 1.1-7.jar",
+      "version": "1.1-7",
+      "path": "mods/Ambience 1.1-7.jar",
+      "side": "client"
+    },
+    {
+      "name": "BetterFps",
+      "description": "Performance Improvements",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/229876-betterfps"
+      },
+      "src": "https://addons.cursecdn.com/files/2415/906/BetterFps-1.4.4.jar",
+      "version": "latest",
+      "path": "mods/BetterFps-1.4.4.jar",
+      "side": "client"
+    },
+    {
+      "name": "Mapwriter 2",
+      "description": "An open source mini-map!",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/231387-mapwriter-2"
+      },
+      "src": "https://addons.cursecdn.com/files/2368/629/MapWriter-1.11.2-2.7.0.jar",
+      "version": "2.7.0",
+      "path": "mods/MapWriter-1.11.2-2.7.0.jar",
+      "side": "client"
+    },
+    {
+      "name": "Thump",
+      "description": "A simple, highly configurable Minecraft chat multiplexer with built in IRC support",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/231124-thump"
+      },
+      "src": "https://addons.cursecdn.com/files/2391/714/Thump-1.11.2-4.6.0.3.jar",
+      "version": "1.11.2-4.6.0.3",
+      "path": "mods/Thump-1.11.2-4.6.0.3.jar",
+      "side": "server"
+    },
+    {
+      "name": "Aroma1997Core",
+      "description": "This is a mod required by most of my other mods, so you should install it, if you want to run any other of my mods.",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/223735-aroma1997core"
+      },
+      "src": "https://addons.cursecdn.com/files/2412/506/Aroma1997Core-1.11.2-1.2.0.0.jar",
+      "version": "1.2.0.0",
+      "path": "mods/Aroma1997Core-1.11.2-1.2.0.0.jar",
+      "side": "server"
+    },
+    {
+      "name": "AutoRegLib",
+      "description": "A library to ease menial tasks in mod development.",
+      "links": {
+        "website": "https://mods.curse.com/mc-mods/minecraft/250363-autoreglib"
+      },
+      "src": "https://addons.cursecdn.com/files/2363/585/AutoRegLib-1.1-4.jar",
+      "version": "1.1-4",
+      "path": "mods/AutoRegLib-1.1-4.jar"
+    }
+  ],
+  "name": "sample_pack",
+  "description": "A sample pack",
+  "authors": [
+    "nikky",
+    "copygirl"
+  ],
+  "links": {
+    "website": "https://nikky.moe/mc",
+    "source": "https://github.com/NikkyAI/gitmc-sample",
+    "issues": "https://github.com/NikkyAI/gitmc-sample/issues",
+    "donations": "https://copy.mcft.net/donate/"
+  },
+  "minecraftVersion": "1.11.2",
+  "forgeVersion": "13.20.0.2296"
+}

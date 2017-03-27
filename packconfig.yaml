@@ -1,0 +1,93 @@
+name: sample_pack
+description: A sample pack
+authors: [ nikky, copygirl ]
+links:
+  website: https://nikky.moe/mc
+  source: https://github.com/NikkyAI/gitmc-sample
+  issues: https://github.com/NikkyAI/gitmc-sample/issues
+  donations: https://copy.mcft.net/donate/
+
+minecraftVersion: 1.11.2
+forgeVersion: latest # recommended: 13.20.0.2228
+
+defaults:
+  # Special group * applies to all included resources
+  mods:
+    path: "mods"
+    handler: curse
+    version: recommended # or latest
+  config:
+    path: "config"
+    handler: file
+  client: { side: client }
+  server: { side: server }
+  curse: { handler: curse }
+  github: { handler: github }
+  recommended: { version: recommended }
+  latest: { version: latest }
+  optional: { feature: true }
+
+includes:
+  mods:
+    common:
+      - Wearable Backpacks
+      - Roots @ latest
+      - Tough As Nails
+      
+      # tweaks and utilities
+      - PeacefulSurface
+      - No Mob Spawning on Trees
+      - OpenBlocks Elevator
+      - Just Enough Items (JEI) @ latest
+      - Akashic Tome
+      - Quark
+      - NotEnoughCodecs
+      
+      - src: MCMultiPart
+        version: latest
+
+      # - http://nikky.moe/.tmp/Charset-mc1.11.2-0.4.0-pre10-fb90e4ce07e2bf96.jar # FIXME: url broken
+      
+      - https://github.com/elytra/FruitPhone/releases/download/1.11.2-0.1.7/FruitPhone-1.11.2-0.1.7.jar
+      - https://github.com/elytra/ProbeDataProviderAPI/releases/download/MC1.11.2_ver1.1.1/ProbeDataProviderAPI-MC1.11.2_ver1.1.1.jar
+
+    # serverside
+    server:
+      # - Thump
+      - Thumpcord @ latest
+      - Morpheus
+      - AromaBackup @ latest
+      
+    # clientside
+    client:
+      - NoNausea
+      - ChatFlow
+      - Default Options
+      - Just Enough Resources (JER)        
+    
+    optional:
+      common:
+        - src: Inventory tweaks
+          version: latest
+        
+        - OpenEye
+        - https://asie.pl/files/minecraft/foamfix-0.6.2-beta1-anarchy.jar
+
+      client:
+        includes:
+          - Neat
+          - JourneyMap
+          - Dynamic Surroundings
+          - Just Enough Buttons
+          - More Overlays
+          - Mouse Tweaks
+          - Item Scroller
+          - Ambience (Music Mod)
+          # - https://asie.pl/files/minecraft/foamfix-0.6.1-law.jar # may result in a conflict until features are implemented
+        latest:
+          - BetterFps
+          - Mapwriter 2
+
+        # - src: http://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_B7.jar #TODO: optifine handler  (needs to be part of downloader or so) or rehosting (bad)
+        #   side: client
+        #   feature: true
